@@ -2,4 +2,4 @@ Creator: Supphawit Nontraudorn, Registration ID: 2103202
 Dataset is loaded and save in this folder
 To access the dataset for this project, download from: https://raw.githubusercontent.com/golfn123/CE888Project/main/seq2seq/train_spider.json
 Source of the dataset(spider dataset): https://drive.google.com/uc?export=download&id=1_AckYkinAnhqmRQtGsQgUKAnTHxxX5J0
-Jupyter notebook file (main.ipnyb) shows the process to visualize and pre process the dataset
+Jupyter notebook file (main.ipnyb) shows the process of pre-processing, build the model, model evaluation and translate the input from the output.
